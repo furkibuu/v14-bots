@@ -24,4 +24,4 @@ fs.readdirSync('./handlers').forEach((handler) => {
 
   client.setMaxListeners(0)
 
-  client.login(token || "MTEwOTU3Mjg0Mzc4NTY4MzA0NA.GUYFXD.z6mHyPNLeYJZEuJ_cCzwRLn13Q7OFDzVk3ir88")
+  client.login(token || "")
