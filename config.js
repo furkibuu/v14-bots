@@ -1,7 +1,7 @@
 module.exports = {
 
 
-token:"MTEwOTU3Mjg0Mzc4NTY4MzA0NA.GUYFXD.z6mHyPNLeYJZEuJ_cCzwRLn13Q7OFDzVk3ir88",
+token:"",
 
 owner:["",""] , beta:["",""], admin: ["",""],
 
